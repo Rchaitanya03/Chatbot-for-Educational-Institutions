@@ -11,5 +11,4 @@ analyses academic records, discerns query context, and extracts pertinent data t
 insights to users, including educators, students, and parents. With a user-friendly interface, the chatbot ensures 
 accessibility for users of all technical proficiencies. This initiative aims to establish a new standard in educational 
 technology by providing an innovative solution that streamlines information dissemination and enriches the 
-academic journey for stakeholders in the educational realm, all achieved with reliance on ML
- and DL technologies.
+academic journey for stakeholders in the educational sector.
