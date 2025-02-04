@@ -12,3 +12,5 @@ insights to users, including educators, students, and parents. With a user-frien
 accessibility for users of all technical proficiencies. This initiative aims to establish a new standard in educational 
 technology by providing an innovative solution that streamlines information dissemination and enriches the 
 academic journey for stakeholders in the educational sector.
+
+Login Page
