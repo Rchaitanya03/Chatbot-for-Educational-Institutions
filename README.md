@@ -14,4 +14,4 @@ technology by providing an innovative solution that streamlines information diss
 academic journey for stakeholders in the educational sector.
 
 Login Page
-![image alt]('https://github.com/Rchaitanya03/Chatbot-for-Educational-Institutions/blob/cdd044c285a8c3b53a4513d80df2a9810c8aacfd/image1.jpg')
+![image alt](https://github.com/Rchaitanya03/Chatbot-for-Educational-Institutions/blob/cdd044c285a8c3b53a4513d80df2a9810c8aacfd/image1.jpg)
