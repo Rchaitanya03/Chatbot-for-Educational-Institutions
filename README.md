@@ -15,3 +15,7 @@ academic journey for stakeholders in the educational sector.
 
 Login Page
 ![image alt](https://github.com/Rchaitanya03/Chatbot-for-Educational-Institutions/blob/cdd044c285a8c3b53a4513d80df2a9810c8aacfd/image1.jpg)
+
+ChatBot Page
+
+![image alt](https://github.com/Rchaitanya03/Chatbot-for-Educational-Institutions/blob/b6e1c4d6b2d015ad52fbdef6aeea88e15aaefe27/image2.jpg)
